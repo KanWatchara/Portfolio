@@ -2,7 +2,7 @@
 
 
 ## SQL
-- Bakery Owner Project - https://replit.com/@WatcharaWachira/SQL-Project
+- Bakery Owner Project - https://github.com/KanWatchara/Portfolio/blob/2e1f3713e1417726bdad60ab3bdb447eb142bc2e/SQL/Bakery%20Owner%20Project.sql or https://replit.com/@WatcharaWachira/SQL-Project
 
 
 ## Power BI
